@@ -1,0 +1,24 @@
+.tickets-list{
+    width: 502px;
+}
+.showMore{
+    height: 50px;
+    width: 100%;
+    background-color: #2196F3;
+    display: flex;           /* Используем flexbox для выравнивания */
+    align-items: center;     /* Выравнивание элементов по вертикали */
+    justify-content: center;
+    outline: none;
+    text-align: center;
+    font-family: Open Sans;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px; /* 166.667% */
+    letter-spacing: 0.5px;  
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
